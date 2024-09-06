@@ -1,4 +1,4 @@
-//Day 1: Find the biggest Word in the string
+//Day 01: Find the biggest Word in the string
 
 //METHOD 1
 const findLongestWord = (str) => {
